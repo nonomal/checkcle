@@ -60,7 +60,7 @@ CheckCle is an Open Source solution for seamless, real-time monitoring of full-s
 - Infrastructure Server Monitoring, Supports Linux (🐧 Debian, Ubuntu, CentOS, Red Hat, etc.) and Windows (Beta). And Servers metrics like CPU, RAM, disk usage, and network activity) with an one-line installation angent script.
 - Schedule Maintenance & Incident Management
 - Operational Status / Public Status Pages
-- Notifications via email, Telegram, Discord, and Slack
+- Notifications via email, Telegram, Discord, Slack, Matrix, and more
 - Reports & Analytics
 - Settings Panel (User Management, Data Retention, Multi-language, Themes (Dark & Light Mode), Notification and channels and alert templates).
 
@@ -185,7 +185,7 @@ Here are some ways you can help improve CheckCle:
 - Website: [checkcle.io](https://checkcle.io)
 - Documentation: [docs.checkcle.io](https://docs.checkcle.io) | Big thanks to [GitBook](https://github.com/gitbookio) for sponsoring the OSS site plan for CheckCle!
 - Chat on Discord: Join our community [@discord](https://discord.gg/xs9gbubGwX)
-- Follow us on X: [@checkcle_oss](https://x.com/checkcle_oss)
+- Follow us on X: [@asqrm_io](https://x.com/asqrm_io)
 
 ## 📜 License
 
